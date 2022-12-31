@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "E-commerce back end run using MySQL database and Sequelize Node.js package.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/SerhiyZv/E-commerce-Back-End.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Serhiy Zvedenyuk",
+  "license": "MIT",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "dotenv": "^8.6.0",
